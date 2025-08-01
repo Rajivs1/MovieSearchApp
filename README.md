@@ -25,10 +25,6 @@ A React Native mobile application for searching movies using the OMDb API. This 
 - **Clean UI**: Modern, intuitive interface with smooth navigation
 - **Error Handling**: Graceful error handling for network issues and invalid searches
 
-## Screenshots
-
-(Screenshots will be added when the app is running)
-
 ## Installation
 
 ### Prerequisites
