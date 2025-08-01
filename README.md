@@ -41,7 +41,7 @@ A React Native mobile application for searching movies using the OMDb API. This 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/MovieSearchApp.git
+   git clone https://github.com/Rajivs1/MovieSearchApp
    cd MovieSearchApp
    ```
 
